@@ -1,6 +1,6 @@
 # Scanner App Privacy Policy
 
-## Last updated: December 24, 2022
+## Last updated: October 17, 2023
 
 This App is Developed By Gems Developers.
 
