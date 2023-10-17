@@ -18,8 +18,8 @@ We only use our app specific data to provide and improve the service. By using t
 
   App Storage Preference/Databases is collected automatically when using the service. Usage data may include information such as our App-specific-files in which we store your data of Hira Dairy. 
 
-- For more info on Storage Preference, please visit Android Developers page visit [developer.android.com](developer.android.com). 
-- For more info on Storage Databases, please visit Android Developers page visit [developer.android.com](developer.android.com).
+- For more info on Storage Preference, please visit Android Developers page visit [developer.android.com](https://developer.android.com/reference/android/preference/Preference)
+- For more info on Storage Databases, please visit Android Developers page visit [developer.android.com](https://developer.android.com/training/data-storage/room)
 
 ## Security of Your Personal Data
 
